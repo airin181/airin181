@@ -44,5 +44,5 @@ Also...
  or give some ♥ on [mail](mailto:iregmerino@gmail.com) .
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=airin181.airin181&left_color=grey&right_color=green)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=airin181.airin181&left_color=blue&right_color=green)
  
