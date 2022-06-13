@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Irene. Adnan Azmee 👩‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Irene 👩‍💻
 
 I am a Full Stack Web Developer with a creative background in Graphic Design, Photo & Video Editing. I am passionate about technologies and travelling anywhere around the world.
 
