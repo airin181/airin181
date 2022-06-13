@@ -41,8 +41,4 @@ Also...
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irenemerino_photo/) 
 
 
- or give some ♥ on [mail](mailto:iregmerino@gmail.com) .
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=airin181.airin181&left_color=blue&right_color=green)
- 
+ or give some ♥ on [mail](mailto:iregmerino@gmail.com) . 
