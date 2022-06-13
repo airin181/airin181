@@ -38,13 +38,11 @@ Also...
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenegarciamerino/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irenemerino_photo/) 
 
 
  or give some ♥ on [mail](mailto:iregmerino@gmail.com) .
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=airin181/airin181)
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=airin181.airin181&left_color=grey&right_color=green)
  
