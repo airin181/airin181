@@ -2,7 +2,7 @@
 
 I am a Full Stack Web Developer with a creative background in Graphic Design, Photo & Video Editing. I am passionate about technologies, travel photography and challenging myself or pushing myself out of my comfort zone.
 
-
+<br>
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
@@ -38,7 +38,7 @@ Also...<br>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobepremierepro.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  
-
+<br>
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenegarciamerino/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irenemerino_photo/) 
