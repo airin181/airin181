@@ -27,8 +27,11 @@ Here are a few things I've picked up along my learning journey.
 
 
 
-Also...
+<br>
+<br>
+Also...<br>
 
+<br>
 <a href="adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeaftereffects.svg" width="36" height="36" alt="After Effects" /></a>
